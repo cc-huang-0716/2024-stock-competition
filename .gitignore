@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.pkl
+*.joblib
+*.parquet
+*.zip
+*.rar
+
+# Output
+outputs/
+output/
+results/
+logs/
+runs/
+checkpoints/
+models/
+
+# Secrets
+.env
+*.key
+credentials.json
+token.json
+
+# OS
+.DS_Store
+Thumbs.db
